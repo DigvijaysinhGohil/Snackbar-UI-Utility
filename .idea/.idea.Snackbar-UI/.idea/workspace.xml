@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acc89aef-534b-4f6d-8361-af2df94f4d26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snackbar-UI/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snackbar-UI/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snackbar-UI/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snackbar-UI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snackbar-UI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snackbar-UI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snackbar-UI/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snackbar-UI/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj.DotSettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Examples.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Examples/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Examples/Scenes/Demo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Examples/Scenes/Demo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Examples/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Examples/Scripts/Demo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Examples/Scripts/Demo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Resources/SnackBar.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Resources/SnackBar.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBar.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBarUi.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBarUi.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LTDescr.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LTDescr.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LTDescrOptional.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LTDescrOptional.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LTSeq.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LTSeq.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanAudio.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanAudio.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanSmooth.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanSmooth.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanTest.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanTween.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanTween.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanTween.dll.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanTween.dll.zip.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanTweenExt.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/Framework/LeanTweenExt.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/_IMPORTED/LeanTween/License.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/Scenes/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/Scenes/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LTDescr.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LTDescr.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LTDescrOptional.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LTDescrOptional.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LTSeq.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LTSeq.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanAudio.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanAudio.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanSmooth.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanSmooth.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanTween.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanTween.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanTween.dll.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanTween.dll.zip.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanTweenExt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/Framework/LeanTweenExt.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Snackbar-UI/_IMPORTED/LeanTween/License.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Examples/Scripts/Demo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <marker date="1650282858986" expanded="true" signature="6:68" ph="..." />
+                <marker date="1650282858986" expanded="true" signature="104:322" ph="{...}" />
+                <marker date="1650282858986" expanded="true" signature="194:320" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBarUi.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+              <folding>
+                <marker date="1650282958573" expanded="true" signature="6:102" ph="..." />
+                <marker date="1650282958573" expanded="true" signature="128:3852" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="161:3849" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="212:2741" ph="{...}" />
+                <marker date="1650282958573" expanded="false" signature="838:1078" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="860:1064" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="909:1003" ph="{...}" />
+                <marker date="1650282958573" expanded="false" signature="1120:1356" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="1142:1342" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="1188:1284" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="1395:1500" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="1591:2040" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="1803:1853" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="2097:2414" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="2320:2400" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="2461:2613" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="2646:2731" ph="{...}" />
+                <marker date="1650282958573" expanded="false" signature="2858:3827" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="2910:3817" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="3147:3322" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="3493:3643" ph="{...}" />
+                <marker date="1650282958573" expanded="true" signature="3643:3803" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-135">
+              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <marker date="1650282858991" expanded="false" signature="6:40" ph="..." />
+                <marker date="1650282858991" expanded="true" signature="66:1589" ph="{...}" />
+                <marker date="1650282858991" expanded="true" signature="99:1586" ph="{...}" />
+                <marker date="1650282858991" expanded="true" signature="132:1579" ph="{...}" />
+                <marker date="1650282858991" expanded="true" signature="269:552" ph="{...}" />
+                <marker date="1650282858991" expanded="true" signature="307:362" ph="{...}" />
+                <marker date="1650282858991" expanded="true" signature="404:538" ph="{...}" />
+                <marker date="1650282858991" expanded="true" signature="601:1236" ph="{...}" />
+                <marker date="1650282858991" expanded="true" signature="1290:1374" ph="{...}" />
+                <marker date="1650282858991" expanded="true" signature="1414:1569" ph="{...}" />
+                <marker date="1650282858991" expanded="true" signature="1456:1503" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBarUi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Examples/Scripts/Demo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Snackbar-UI/Scripts/SnackBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Snackbar-UI/Scripts/SnackBarUi.cs" />
+        <option value="$PROJECT_DIR$/Assets/Snackbar-UI/Examples/Scripts/Demo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBarUi.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1100" />
+    <option name="y" value="-10" />
+    <option name="width" value="830" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acc89aef-534b-4f6d-8361-af2df94f4d26" name="Default Changelist" comment="" />
+      <created>1650107141740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650107141740</updated>
+      <workItem from="1650107143382" duration="894000" />
+      <workItem from="1650276463278" duration="5605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6499000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24966533" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Scripts/SnackBar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Scripts/SnackBarUi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="71" column="36" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Examples/Scripts/Demo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1650282858986" expanded="true" signature="6:68" ph="..." />
+            <marker date="1650282858986" expanded="true" signature="104:322" ph="{...}" />
+            <marker date="1650282858986" expanded="true" signature="194:320" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <marker date="1650282858991" expanded="false" signature="6:40" ph="..." />
+            <marker date="1650282858991" expanded="true" signature="66:1589" ph="{...}" />
+            <marker date="1650282858991" expanded="true" signature="99:1586" ph="{...}" />
+            <marker date="1650282858991" expanded="true" signature="132:1579" ph="{...}" />
+            <marker date="1650282858991" expanded="true" signature="269:552" ph="{...}" />
+            <marker date="1650282858991" expanded="true" signature="307:362" ph="{...}" />
+            <marker date="1650282858991" expanded="true" signature="404:538" ph="{...}" />
+            <marker date="1650282858991" expanded="true" signature="601:1236" ph="{...}" />
+            <marker date="1650282858991" expanded="true" signature="1290:1374" ph="{...}" />
+            <marker date="1650282858991" expanded="true" signature="1414:1569" ph="{...}" />
+            <marker date="1650282858991" expanded="true" signature="1456:1503" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Snackbar-UI/Framework/Scripts/SnackBarUi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <marker date="1650282958573" expanded="true" signature="6:102" ph="..." />
+            <marker date="1650282958573" expanded="true" signature="128:3852" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="161:3849" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="212:2741" ph="{...}" />
+            <marker date="1650282958573" expanded="false" signature="838:1078" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="860:1064" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="909:1003" ph="{...}" />
+            <marker date="1650282958573" expanded="false" signature="1120:1356" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="1142:1342" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="1188:1284" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="1395:1500" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="1591:2040" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="1803:1853" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="2097:2414" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="2320:2400" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="2461:2613" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="2646:2731" ph="{...}" />
+            <marker date="1650282958573" expanded="false" signature="2858:3827" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="2910:3817" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="3147:3322" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="3493:3643" ph="{...}" />
+            <marker date="1650282958573" expanded="true" signature="3643:3803" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
