@@ -34,3 +34,7 @@ using DigvijaysinhG.SnackBarUtility;
 You can also find a *Demo* scene in Example folder
 
 ![Example](https://user-images.githubusercontent.com/48823553/164169029-23f148b0-dbdb-4f4c-b9f8-cebdfb8fd52a.gif)
+
+## Donate ♥
+If you find the package helpful, consider supporting me on [Patreon](https://www.patreon.com/DigvijaysinhG)<br>
+It would be really helpful for me and motivates me to keep doing what I am doing right now, for free😁
