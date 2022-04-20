@@ -9,7 +9,7 @@
         <e p="Snackbar-UI" t="Include">
           <e p="Examples" t="Include">
             <e p="Scripts" t="Include">
-              <e p="Demo.cs" t="Include" />
+              <e p="SnackBarTest.cs" t="Include" />
             </e>
           </e>
           <e p="Framework" t="Include">
